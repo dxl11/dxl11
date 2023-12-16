@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm dxl</h1>
-<h3 align="center">I come from china</h3>
+<h3 align="center">I come from china,I am Dragon</h3>
 
 <h3 align="left">Connect with me:</h3>
+<p>QQ:2630537356</p>
 <p align="left">
 </p>
 
